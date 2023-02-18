@@ -8,3 +8,5 @@ Natural Language Processing (NLP) is a subfield of linguistics Artficial Intelig
 - This helps in differentiating between meaning of various texts
 
 Applications: Optical Character Recognition (OCR), Speech Recognition, Machine Translation, and Chatbots etc.
+
+https://us04web.zoom.us/j/78243466917?pwd=mLWvWshhaIOYziDir93ChB5S2Jl1ip.1
