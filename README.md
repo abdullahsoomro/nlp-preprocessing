@@ -11,3 +11,5 @@ Applications: Optical Character Recognition (OCR), Speech Recognition, Machine T
 
 
 https://meet.google.com/yrz-rauu-ygj?pli=1
+
+https://meet.google.com/cuu-ytxa-izz
